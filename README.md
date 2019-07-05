@@ -5,7 +5,10 @@ Use SOMs (Self Organizing Maps) to predict which claims are potentially fraud fo
 
 
 Picture of a SOM exposing fraudulent automabile injury claims:
+
+
 ![github-small](SOM.png) 
+
 
 
 * Annual cost of the insurance fraud problem is $20 billion
